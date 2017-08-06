@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/fromLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="fromplace"
+        android:hint="@string/from_location" />
+
+    <EditText
+        android:id="@+id/toLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="toplace"
+        android:hint="@string/to_location" />
+
+    <Button
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/search" />
+
+    <TextView
+        android:id="@+id/noresult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>

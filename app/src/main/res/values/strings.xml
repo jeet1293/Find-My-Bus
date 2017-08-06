@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FindMyBus</string>
+    <string name="findmybus">FindMyBus</string>
+    <string name="from_location">From Location</string>
+    <string name="search">Search</string>
+    <string name="to_location">To Location</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="alt">NoDirect Bus Available. Check alternative route?</string>
+    <string name="bus_id">Bus ID :</string>
+    <string name="from">From :</string>
+    <string name="time">Time</string>
+    <string name="to">To :</string>
+    <string name="via">Via :</string>
+    <string name="book_ticket">Book Ticket</string>
+    <string name="distance">Distance</string>
+    <string name="seats">Seats</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+</resources>
