@@ -1,2 +1,37 @@
-# Find-My-Bus
-FindMyBus provides facilities like real time tracking of public transport, Seat availability and many more.  FindmyBus uses the current position of the vehicle for calculation of the arrival time from particular source to destination. Also, we have used current position to determine the whole journey time. We get the current position of the vehicle using the GPS fitted in the vehicle. Vehicle reservation is used to check the current occupied seats and reservation of the available seats. The capacitive sensor is used to check the availability of the seats. This information is sent to the server through GPRS and used for further calculations in the system. Application is in current BETA Phase.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/jeet1293/Find-My-Bus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeet1293/Find-My-Bus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
