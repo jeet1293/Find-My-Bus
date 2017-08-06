@@ -1,4 +1,4 @@
-# Welcome to GitHub Pages
+# FindMyBus
 
 FindMyBus provides facilities like real time tracking of public transport, Seat availability and many more.
 
